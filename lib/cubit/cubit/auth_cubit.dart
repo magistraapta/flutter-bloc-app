@@ -1,8 +1,6 @@
 import 'package:equatable/equatable.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:movie_app/models/user_model.dart';
-import 'package:movie_app/services/authentication.dart';
 
 part 'auth_state.dart';
 
